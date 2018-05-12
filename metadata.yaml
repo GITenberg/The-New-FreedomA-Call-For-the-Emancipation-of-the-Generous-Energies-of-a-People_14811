@@ -1,0 +1,35 @@
+_repo: The-New-FreedomA-Call-For-the-Emancipation-of-the-Generous-Energies-of-a-People_14811
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Woodrow
+    aliases:
+    - Wilson, Thomas Woodrow
+    - United States President (1913-1921)
+    - Wilson, T. W. (Thomas Woodrow)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '1689'
+    url: http://www.gutenberg.org/2009/agents/1689
+    wikipedia: http://en.wikipedia.org/wiki/Woodrow_Wilson
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1913-1921'
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+- !lcc 'JK'
+title: 'The New Freedom
+
+  A Call For the Emancipation of the Generous Energies of a People'
+url: http://www.gutenberg.org/ebooks/14811
